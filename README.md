@@ -6,3 +6,7 @@ If this is not being done live or you liked to read the instructions please clic
 ## Your Name Here
 
 - Your sentence here
+
+## Partner Name Here
+
+- Your sentence here

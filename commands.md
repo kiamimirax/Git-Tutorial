@@ -24,6 +24,7 @@
 | `git merge <branch>`          | Merge another branch into your current branch |
 | `git rebase <branch>`         | Reapply commits from one branch onto another (linear history) |
 | `git fetch`                   | Download new changes without merging        |
+| `git fetch <remote>`                   | Download new changes without merging        |
 | `git reset --hard <commit>`   | Reset current branch to a specific commit and discard changes |
 | `git revert <commit>`         | Create a new commit that undoes changes from a commit |
 | `git cherry-pick <commit>`    | Apply a specific commit from another branch onto the current branch |
@@ -31,7 +32,9 @@
 | `git stash pop`               | Reapply stashed changes and remove from stash |
 | `git log --oneline`           | Display the commit history compactly        |
 | `git remote -v`               | Show connected remotes and their URLs       |
-
+| `git remote`                     | List all remotes associated with the repository |
+| `git remote add <name> <url>`     | Add a new remote repository                |
+| `git remote remove <name>`        | Remove a remote repository                 |
 
 ## Handy Commands
 
